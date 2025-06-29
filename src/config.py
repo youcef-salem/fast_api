@@ -9,3 +9,7 @@ BaseSettings
         env_file=".env",
         extra="ignore"
     )
+
+
+
+Config =Settings()
